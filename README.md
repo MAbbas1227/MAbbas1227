@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8b27d63-a67e-4104-b06c-3ec2ea85c740" /><h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 
 <h3 align="center">
 BS Artificial Intelligence Student | AI/ML Enthusiast | Machine Learning Developer
